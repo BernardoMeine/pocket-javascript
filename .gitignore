@@ -1,0 +1,6 @@
+server/node_modules
+server/.env
+server/src/env.ts
+server/.vscode
+
+web/node_modules
